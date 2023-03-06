@@ -1,0 +1,430 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkplNTM5c15w4W5pgyUsb9uUAmeGu99mMmwOkkHJe3qTRyGdyLJEvP1+UMSqkRBTSQ4HR2inwDyeZ5C4P+Sb1Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\I30516\\source\\repos\\AudioDepot\\AudioDepot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I30516\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\azure.security.keyvault.certificates\\4.1.0\\azure.security.keyvault.certificates.4.1.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\azure.security.keyvault.secrets\\4.1.0\\azure.security.keyvault.secrets.4.1.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.16.5\\microsoft.identity.client.extensions.msal.2.16.5.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identity.web\\1.16.0\\microsoft.identity.web.1.16.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identity.web.ui\\1.16.0\\microsoft.identity.web.ui.1.16.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.1\\microsoft.identitymodel.jsonwebtokens.6.12.1.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.1\\microsoft.identitymodel.logging.6.12.1.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.1\\microsoft.identitymodel.protocols.6.12.1.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.1\\microsoft.identitymodel.protocols.openidconnect.6.12.1.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.1\\microsoft.identitymodel.tokens.6.12.1.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.1\\system.identitymodel.tokens.jwt.6.12.1.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\I30516\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols.OpenIdConnect' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols.OpenIdConnect'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols.OpenIdConnect' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols.OpenIdConnect'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols.OpenIdConnect' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols.OpenIdConnect'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols.OpenIdConnect' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols.OpenIdConnect'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Authentication.OpenIdConnect' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.AspNetCore.Authentication.OpenIdConnect'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.OpenIdConnect"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Authentication.OpenIdConnect' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.AspNetCore.Authentication.OpenIdConnect'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.OpenIdConnect"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Web' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Web"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Web' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Web"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Web.UI' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Web.UI'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Web.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Web.UI' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Web.UI'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Web.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Authentication.JwtBearer' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.AspNetCore.Authentication.JwtBearer'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Authentication.JwtBearer' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.AspNetCore.Authentication.JwtBearer'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.IdentityModel.Tokens.Jwt' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.IdentityModel.Tokens.Jwt'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.IdentityModel.Tokens.Jwt' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.IdentityModel.Tokens.Jwt'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.IdentityModel.Tokens.Jwt' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.IdentityModel.Tokens.Jwt'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.IdentityModel.Tokens.Jwt' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.IdentityModel.Tokens.Jwt'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Security.Cryptography.Cng' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Security.Cryptography.Cng'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Bcl.AsyncInterfaces' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Bcl.AsyncInterfaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Security.Cryptography.Cng' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Security.Cryptography.Cng'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Security.Cryptography.Cng' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Security.Cryptography.Cng'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Security.Cryptography.Cng' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Security.Cryptography.Cng'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CSharp' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CSharp' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CSharp' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CSharp' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Client' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Client'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Client"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Client' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Client'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Client"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Identity' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Identity'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Identity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Identity' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Identity'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Identity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Security.KeyVault.Secrets' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Security.KeyVault.Secrets'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Security.KeyVault.Secrets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Security.KeyVault.Secrets' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Security.KeyVault.Secrets'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Security.KeyVault.Secrets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Tokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Tokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Tokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Tokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Tokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Tokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Tokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Tokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Tokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Tokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Tokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Tokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Security.KeyVault.Certificates' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Security.KeyVault.Certificates'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Security.KeyVault.Certificates"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Security.KeyVault.Certificates' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Security.KeyVault.Certificates'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Security.KeyVault.Certificates"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Text.Encodings.Web' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Text.Encodings.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encodings.Web"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Text.Encodings.Web' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Text.Encodings.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encodings.Web"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Text.Json' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Text.Json' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Logging' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Logging' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Logging' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Logging' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Security.Cryptography.ProtectedData' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Security.Cryptography.ProtectedData'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Security.Cryptography.ProtectedData' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Security.Cryptography.ProtectedData'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Core' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Core' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Core' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Azure.Core' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Azure.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Azure.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.JsonWebTokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.JsonWebTokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.JsonWebTokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.JsonWebTokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.JsonWebTokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.JsonWebTokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.JsonWebTokens' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.JsonWebTokens'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.IdentityModel.Protocols' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.IdentityModel.Protocols'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.IdentityModel.Protocols"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Diagnostics.DiagnosticSource' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Diagnostics.DiagnosticSource'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Diagnostics.DiagnosticSource' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Diagnostics.DiagnosticSource'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Client.Extensions.Msal' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Client.Extensions.Msal'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Client.Extensions.Msal"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Identity.Client.Extensions.Msal' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='Microsoft.Identity.Client.Extensions.Msal'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Identity.Client.Extensions.Msal"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Buffers' from remote source 'https://ssinugetfeed.restorationmanager.net/FindPackagesById()?id='System.Buffers'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Buffers"
+    }
+  ]
+}
